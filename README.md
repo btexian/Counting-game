@@ -1,6 +1,6 @@
 # Kid-Counting-game
 
-Overview
+# Overview
 
 Kid Counting Game is an interactive educational web-based game designed for kids to practice counting objects. The game randomly generates images with different objects (e.g., apples, oranges, animals, etc.), highlights one box, and provides four numerical options for the child to select the correct count.
 
